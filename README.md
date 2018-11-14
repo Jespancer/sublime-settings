@@ -1,6 +1,6 @@
 # Sublime Settings
 
-Where these files go: "C:\Users\[userName]\AppData\Roaming\Sublime Text 3\Packages\User"
+Where these files go: "C:\Users\userName\AppData\Roaming\Sublime Text 3\Packages\User"
 
 List of packages installed:
 
