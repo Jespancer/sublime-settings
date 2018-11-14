@@ -1,0 +1,34 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_face": "Fira code",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Blog",
+		"Jespancer",
+		"Podcast",
+		"Podcasts",
+		"blog",
+		"jespancer",
+		"podcast",
+		"webapp",
+		"www"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 0,
+	"material_theme_accent_yellow": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme"
+}
