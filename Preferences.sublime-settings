@@ -1,4 +1,8 @@
 {
+	"added_words":
+	[
+		"Blogging"
+	],
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"font_face": "Fira code",
 	"font_size": 11,
@@ -10,6 +14,7 @@
 	[
 		"Blog",
 		"Jespancer",
+		"Navbar",
 		"Podcast",
 		"Podcasts",
 		"blog",
@@ -29,6 +34,6 @@
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"spell_check": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme"
 }
